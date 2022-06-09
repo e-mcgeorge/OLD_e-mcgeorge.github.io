@@ -284,6 +284,8 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar:
+        nav: "docs"
   
   # _pages
   - scope:
@@ -296,3 +298,5 @@ defaults:
           overlay_color: "#A7C7E7"
           overlay_image: /assets/website_banner.png
       classes: wide
+      sidebar:
+        nav: "docs"
