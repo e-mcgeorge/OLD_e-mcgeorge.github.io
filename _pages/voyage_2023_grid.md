@@ -6,6 +6,6 @@ header:
     overlay_color: "#85929E"
     overlay_image: /assets/website_banner.png
 author_profile: true
-entries_layout: grid
+<!-- entries_layout: grid -->
 classes: wide
 ---
