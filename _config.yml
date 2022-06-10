@@ -282,6 +282,10 @@ defaults:
       author_profile: true
       read_time: false
       comments: # true
+      header:
+          overlay_color: "#A7C7E7"
+          overlay_image: /assets/website_banner.png
+      classes: wide
       share: true
       related: true
       sidebar:
