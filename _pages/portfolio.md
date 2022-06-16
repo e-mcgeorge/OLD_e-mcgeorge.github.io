@@ -3,8 +3,7 @@ layout: single
 title: "Portfolio"
 permalink: /portfolio/
 header:
-    overlay_color: "#85929E"
-    overlay_image: /assets/website_banner.png
+    image: /assets/website_banner3.png
 author_profile: true
 toc: true
 toc_label: "Navigation"
