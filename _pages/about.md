@@ -4,7 +4,7 @@ permalink: /
 title:
 author_profile: true
 header:
-  image: /assets/website_banner2.png
+  image: /assets/website_banner3.png
 classes: wide
 ---
 
