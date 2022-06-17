@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title:
+title: " "
 author_profile: true
 header:
   image: /assets/website_banner3.png
