@@ -20,7 +20,7 @@ title                    : Elizabeth McGeorge # "Site title"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Elizabeth K. McGeorge"
-description              : "My personal websote."
+description              : 
 url                      : "https://e-mcgeorge.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Elizabeth K. McGeorge"
-  avatar           : "/assets/prof_pic_cropped2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/sailing_profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. candidate in applied mathematics at the University of Canterbury."
   location         : "Christchurch, New Zealand"
   email            :
